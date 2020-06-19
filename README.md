@@ -18,9 +18,12 @@ https://www.gartner.com/document/3970166
 
 ### Google Apigee
 
+
 ### Axway AMPLIFY
 
+
 ### Tyk
+
 
 ### Kong
 
