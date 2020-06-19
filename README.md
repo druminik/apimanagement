@@ -6,6 +6,9 @@ Curated list of usefull API Management Links
 https://github.com/ticarpi/jwt_tool/wiki
 Tipps and Tricks on attacking JWT tokens, and more importantly, how to secure them
 
+### eBook Understanding API Security
+https://www.manning.com/books/understanding-api-security
+
 ## API Design Guidelines
 
 
