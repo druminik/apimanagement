@@ -1,4 +1,4 @@
-# apimanagement
+# Curated API Management Link List
 Curated list of usefull API Management Links
 
 ## Security
